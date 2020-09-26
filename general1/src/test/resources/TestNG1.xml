@@ -1,0 +1,21 @@
+
+
+<suite name="Search for repoName">
+
+    <test name="Search Test"  >
+        <packages>
+
+            <package name="com.util.ReadConfig"></package>
+
+
+        </packages>
+
+        <classes>
+
+            <class name="com.examples.SearchTest"></class>
+
+
+        </classes>
+
+    </test>
+</suite>
